@@ -1,4 +1,4 @@
-Username, Email, Phone Number, Password will be different for other based on the database you have provided in your table.
+Username, Email, Phone Number, Password will be different for others based on the database you have provided in your table.
 
 Snapshots:
 
